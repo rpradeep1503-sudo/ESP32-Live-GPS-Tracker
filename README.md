@@ -5,15 +5,6 @@
 [![Project](https://img.shields.io/badge/Project-CircuitDigest-orange)](https://circuitdigest.com)
 
 ---
-
-## 📘 Tutorial Link  
-👉 [GPS Tracker using ESP32](https://circuitdigest.com/microcontroller-projects/simple-gps-tracker-using-esp32-visualize-data-on-map)
-
-## 📂 Project Type  
-🔗 [ESP32 Project](https://circuitdigest.com/esp32-projects)
-
----
-
 ![GPS Tracker using ESP32](https://circuitdigest.com/sites/default/files/projectimage_mic/GPS-Tracker-using-ESP32-and-GeoLinker.png)
 
 ---
