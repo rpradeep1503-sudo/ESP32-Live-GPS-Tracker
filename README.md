@@ -50,11 +50,6 @@
 
 ---
 
-## 🔌 Circuit Connection  
-
-![Circuit Diagram](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/GPS-Tracker-Circuit-Diagram-using-ESP32.png)
-
-### Pin Mapping Table  
 
 | ESP32 Pin | GPS Module Pin |
 |-----------|----------------|
@@ -110,23 +105,7 @@
 
 ---
 
-## 🔗 Links
-- 📘 [GPS Tracker using ESP32](https://circuitdigest.com/microcontroller-projects/simple-gps-tracker-using-esp32-visualize-data-on-map)  
-- 📂 [ESP32 Project Collection](https://circuitdigest.com/esp32-projects)  
-- 📚 [ESP32 with NEO-6M GPS Module](https://circuitdigest.com/microcontroller-projects/interfacing-neo6m-gps-module-with-esp32)  
-- 📖 [Arduino IDE](https://www.arduino.cc/en/software)  
-- 📄 [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)  
-- 📄 [Neo-6M GPS Datasheet](https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf)  
-- 💻 [GeoLinker GitHub Repository](https://github.com/Circuit-Digest/GeoLinker)  
-- 💻 [Project GitHub Repository](https://github.com/Circuit-Digest/Simple-GPS-Tracker-using-ESP32---Visualize-Data-on-Map)  
 
----
-
-## ⭐ Support
-This project is published on **[CircuitDigest](https://circuitdigest.com)**.  
-If you found it useful, please ⭐ star the repository and share it with others!
-
----
 
 ## 🔖 Keywords
 `ESP32` `Neo-6M GPS` `GeoLinker API` `GPS Tracker` `IoT GPS` `ESP32 Project` `Arduino C++`
